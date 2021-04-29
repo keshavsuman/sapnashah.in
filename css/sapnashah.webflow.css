@@ -1493,6 +1493,7 @@ a {
 }
 
 .event-section {
+  display: none;
   margin-top: 30px;
   margin-bottom: 30px;
   padding-right: 60px;
@@ -2773,6 +2774,11 @@ a {
     margin-top: 20px;
     margin-left: 0px;
   }
+
+  .blog-post-image-wrapper {
+    width: 760px;
+    height: 430px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -3066,6 +3072,10 @@ a {
   .blog-post-section {
     padding-right: 25px;
     padding-left: 25px;
+  }
+
+  .blog-post-image-wrapper {
+    width: 560px;
   }
 }
 
@@ -3435,6 +3445,11 @@ a {
   .blog-post-section {
     padding-right: 7px;
     padding-left: 7px;
+  }
+
+  .blog-post-image-wrapper {
+    width: 300px;
+    height: 290px;
   }
 
   .blog-title {
