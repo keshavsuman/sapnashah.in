@@ -2647,6 +2647,14 @@ a {
   margin-bottom: 0px;
 }
 
+.link {
+  font-family: 'Akaya Telivigala', sans-serif;
+  color: #3f8bc9;
+  font-size: 30px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 991px) {
   .hero-nav-arrow.right-arrow {
     margin-bottom: 20px;
