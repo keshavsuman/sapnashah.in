@@ -1006,7 +1006,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  overflow: hidden;
+  overflow: auto;
   height: 260px;
   padding: 6px;
   -webkit-box-orient: vertical;
