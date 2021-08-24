@@ -2533,6 +2533,7 @@ a {
   font-size: 50px;
   line-height: 60px;
   font-weight: 700;
+  text-align: center;
 }
 
 .blog-body {
@@ -3474,6 +3475,12 @@ a {
   min-width: 100%;
   -o-object-fit: cover;
   object-fit: cover;
+}
+
+.text-span-6 {
+  font-size: 32px;
+  line-height: 34px;
+  font-weight: 700;
 }
 
 @media screen and (max-width: 991px) {
